@@ -1,0 +1,359 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'ExplosionObject::clip_' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Code visual studio 2020/Project_SDLgame/Test_SDL/SDL_Game_Plane/SDL_Game_Plane/ExplosionObject.cpp"
+                },
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 18
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ExplosionObject::{ctor}",
+                  "decoratedName": "??0ExplosionObject@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "ExplosionObject::clip_"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'ExplosionObject::frame_' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Code visual studio 2020/Project_SDLgame/Test_SDL/SDL_Game_Plane/SDL_Game_Plane/ExplosionObject.cpp"
+                },
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 18
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ExplosionObject::{ctor}",
+                  "decoratedName": "??0ExplosionObject@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "ExplosionObject::frame_"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33523.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///F:/Code visual studio 2020/Project_SDLgame/Test_SDL/SDL_Game_Plane/SDL_Game_Plane/ExplosionObject.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "38b72da4cbf6f4edfd099a326269f5866ea323b989fcd0dc8b0cc2f9fd512787"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_game_plane/explosionobject.h"
+          },
+          "hashes": {
+            "sha-256": "0912be7e05c052ca108f9aed90ae667cf65869c5f8920ca4e32cf729b8f72bff"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_game_plane/baseobject.h"
+          },
+          "hashes": {
+            "sha-256": "23041bb56fe02a02261f107632b20dea90d15e9168254777d3c06148e5daba84"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_game_plane/common_function.h"
+          },
+          "hashes": {
+            "sha-256": "57c0e0165dd4b09d811d3b62f3b2744abfd585d95eaa688a3c58242fb81f9b0b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl.h"
+          },
+          "hashes": {
+            "sha-256": "7dcd342424ce3f57bb9b55ffe110fc1184b4c9a9cade82117afbfd571f71ed92"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_main.h"
+          },
+          "hashes": {
+            "sha-256": "85b15caee0e17f248c828d8aa8b7175ca2cd605b01f39e57b2886bd3c05cb7af"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_stdinc.h"
+          },
+          "hashes": {
+            "sha-256": "4e3ab184b5b3366dffd3b4bd0399c25c606b515e4a38cb39bf3d7236246fbabd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_config.h"
+          },
+          "hashes": {
+            "sha-256": "cdbc40bd5cf32484cae6aee4528e8af5cc27b7be6fb5ef6b1b88830bc61ecbce"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_platform.h"
+          },
+          "hashes": {
+            "sha-256": "0ec1a4282efa9038e2995d30382ddb2f2469960cf547ef0dfde905004d31b3cb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_config_win32.h"
+          },
+          "hashes": {
+            "sha-256": "5542cce0442af5129686b484f550ded8011b627fb771c549947d17d35677bbd6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/begin_code.h"
+          },
+          "hashes": {
+            "sha-256": "cde4d9dca109e43c09c1ceff9ecc37fcad9e4b5d71da0afb0ac62dc4c167c9b2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/close_code.h"
+          },
+          "hashes": {
+            "sha-256": "a1c0b0fb0374433e060f6163088374e986eeb527b25b9915c96b801525b2330e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_audio.h"
+          },
+          "hashes": {
+            "sha-256": "10a695dc639dd2e428599e6d08e2589042346b3cf0d853e32316b2430dd06466"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_error.h"
+          },
+          "hashes": {
+            "sha-256": "b83b5331a426f77da0883abea8a267f2f884c03935320f8d58ccb407717e603a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_endian.h"
+          },
+          "hashes": {
+            "sha-256": "4d1367c385c324e6c67f96fc76a31397c95ebce33a86aa55a71e4e9cc96d020f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_mutex.h"
+          },
+          "hashes": {
+            "sha-256": "8086bcab0e0b237cc6e3311f0b25a990db27f09476d14b266877b157891f8dc1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_thread.h"
+          },
+          "hashes": {
+            "sha-256": "e5eeab232c17ffde32cdab63d2c747fbcb4d0e84c626a04bc53d9daf3f6f607e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_rwops.h"
+          },
+          "hashes": {
+            "sha-256": "fad134c1bbf865378f08296d0015a9fb8f9b7bd31ee612d3735726b67e360bec"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_cdrom.h"
+          },
+          "hashes": {
+            "sha-256": "5dcea9c2a7535d88610b8897f7b3201502329e19ca81cd18ed35464a67d61a21"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_cpuinfo.h"
+          },
+          "hashes": {
+            "sha-256": "07b9a740a01fda5abfb71b452cf30435e5c6cb03bcea7ab00e8014187c42ac7c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_events.h"
+          },
+          "hashes": {
+            "sha-256": "c339a787f8e8df7f83ff2cacee1538bf2e31f04cd596b70486d11e80733c7572"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_active.h"
+          },
+          "hashes": {
+            "sha-256": "d51a8b0ad41b655330967274ba66cc07b57d158a51af3175596f27d81552f360"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_keyboard.h"
+          },
+          "hashes": {
+            "sha-256": "182ac9eeb22996f047c95fee8cee10cbcb72745c7ddd201c014d1c356d1d76c5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_keysym.h"
+          },
+          "hashes": {
+            "sha-256": "43eb3e3e0fc5dd7216a4b4fc070aa83e06ebd0d92b2e0c6789f8bbb24f12e183"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_mouse.h"
+          },
+          "hashes": {
+            "sha-256": "9d8e48de5b992a763a7228d5c315e702a047dd07c432db35dd72f9fa7441b7d9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_video.h"
+          },
+          "hashes": {
+            "sha-256": "0642e43842fe8c9a09a95172f64984352a715918683f7f51cff6002119728d7a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_joystick.h"
+          },
+          "hashes": {
+            "sha-256": "2e672b11eb60d7fd6a5d7ff76f9df56823493bf1495a15a94e57d76e3ecaef96"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_quit.h"
+          },
+          "hashes": {
+            "sha-256": "04f9c30c24bb8102f05800d17933e9aa8f8d1490f498aa7a4d98afdce2305fc8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_loadso.h"
+          },
+          "hashes": {
+            "sha-256": "05e100afa7c55754d7c96485c5eb3d8c521cc463f22261d930afac046c2af90f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_timer.h"
+          },
+          "hashes": {
+            "sha-256": "81b9d67d08b6fe0c3b5b365af7faab5884144858f5cc720c4bb9194f687769b8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_version.h"
+          },
+          "hashes": {
+            "sha-256": "e4c44ff8f8d39e607e88cde91beaccc2afbf5041976bf9a8b7910071196ed99b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_image_1_2_4/sdl_image_1_2_4/include/sdl_image.h"
+          },
+          "hashes": {
+            "sha-256": "0b844c927c8ae4ef69e87d93e795a27a9858ac75c0fdf7f570f976e42f226cce"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_mixer_1_2_12/sdl_mixer_1_2_12/include/sdl_mixer.h"
+          },
+          "hashes": {
+            "sha-256": "fc897657935471a4ab1b808655e7f4176d6f76ad290cc8bafc99d1d770a5bb21"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/code visual studio 2020/project_sdlgame/test_sdl/sdl_game_plane/sdl_lib/sdl_1_2_15/sdl_1_2_15/include/sdl_types.h"
+          },
+          "hashes": {
+            "sha-256": "abaddfa27b3fd5b629ef40289eb898e30bbb638af51c52529d550126d080411f"
+          }
+        }
+      ]
+    }
+  ]
+}

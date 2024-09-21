@@ -1,0 +1,53 @@
+﻿  Main.cpp
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Main.cpp(5,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Main.cpp(15,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Render.cpp(34,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Render.cpp(49,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Render.cpp(68,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Render.cpp(70,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Render.cpp(88,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Render.cpp(100,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Render.cpp(101,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Render.cpp(102,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Render.cpp(103,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Render.cpp(328,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Render.cpp(387,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Game.cpp(14,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Game.cpp(45,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Game.cpp(56,1): warning C4091: 'static ': ignored on left of 'int' when no variable is declared
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Game.cpp(82,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Game.cpp(83,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\GameC++_0\Main.cpp(178,1): warning C4715: 'WinMain': not all control paths return a value
+  GameC++_0.vcxproj -> D:\Code visual studio 2020\test C++\Test Cpp\GameC++_0\x64\Debug\GameC++_0.exe

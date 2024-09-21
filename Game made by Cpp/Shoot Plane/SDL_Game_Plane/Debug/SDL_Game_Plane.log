@@ -1,0 +1,28 @@
+﻿  BaseObject.cpp
+  BulletObject.cpp
+  Common_Function.cpp
+  ExplosionObject.cpp
+  main.cpp
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\main.cpp(88,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\main.cpp(158,39): warning C4018: '<': signed/unsigned mismatch
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\main.cpp(180,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\main.cpp(181,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\main.cpp(204,41): warning C4018: '<': signed/unsigned mismatch
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\main.cpp(214,47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\main.cpp(215,47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MainObject.cpp
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\MainObject.cpp(66,71): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\MainObject.cpp(81,20): warning C4018: '<': signed/unsigned mismatch
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\MainObject.cpp(112,22): warning C4018: '<': signed/unsigned mismatch
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\MainObject.cpp(114,11): warning C4018: '<': signed/unsigned mismatch
+  ThreatsObject.cpp
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\ThreatsObject.cpp(15,21): warning C4018: '<': signed/unsigned mismatch
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\ThreatsObject.cpp(35,39): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\ThreatsObject.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\ThreatsObject.cpp(52,39): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\ThreatsObject.cpp(67,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\ThreatsObject.cpp(81,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\ThreatsObject.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\SDL_Game_Plane\ThreatsObject.cpp(94,37): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Generating Code...
+  SDL_Game_Plane.vcxproj -> D:\Code visual studio 2020\Project_SDLgame\Test_SDL\SDL_Game_Plane\Debug\SDL_Game_Plane.exe

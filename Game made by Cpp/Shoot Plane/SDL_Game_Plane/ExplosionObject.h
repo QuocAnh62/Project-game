@@ -1,0 +1,26 @@
+#ifndef EXPLOSION_H_
+#define EXPLOSION_H_
+
+#include"BaseObject.h"
+#include"Common_Function.h"
+
+const int EXPLOSION_WIDTH = 165;
+const int EXPLOSION_HEIGHT = 165;
+
+class ExplosionObject : public BaseObject {
+public:
+	ExplosionObject();
+	~ExplosionObject();
+	void setclip();
+	void setframe(int fr) { frame_ = fr; }
+	void move();
+	void ShowEX(SDL_Surface*des);
+
+private:
+	int frame_;
+
+	SDL_Rect clip_[4];
+};
+
+#endif
+
