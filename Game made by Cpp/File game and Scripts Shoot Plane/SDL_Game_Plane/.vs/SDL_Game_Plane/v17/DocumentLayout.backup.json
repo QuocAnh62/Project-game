@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|solutionrelative:SDL_Game_Plane\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\MainObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|solutionrelative:SDL_Game_Plane\\MainObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\BaseObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|solutionrelative:SDL_Game_Plane\\BaseObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\BaseObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|solutionrelative:SDL_Game_Plane\\BaseObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\BulletObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|solutionrelative:SDL_Game_Plane\\BulletObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\ThreatsObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|solutionrelative:SDL_Game_Plane\\ThreatsObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\BulletObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|solutionrelative:SDL_Game_Plane\\BulletObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\ThreatsObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|solutionrelative:SDL_Game_Plane\\ThreatsObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\MainObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|solutionrelative:SDL_Game_Plane\\MainObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\Common_Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|solutionrelative:SDL_Game_Plane\\Common_Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\ExplosionObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|solutionrelative:SDL_Game_Plane\\ExplosionObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\ExplosionObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|solutionrelative:SDL_Game_Plane\\ExplosionObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\Common_Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5719E3B0-03FD-42A3-933F-C2700848F7C6}|SDL_Game_Plane\\SDL_Game_Plane.vcxproj|solutionrelative:SDL_Game_Plane\\Common_Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 151,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Common_Function.cpp",
+              "DocumentMoniker": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\Common_Function.cpp",
+              "RelativeDocumentMoniker": "SDL_Game_Plane\\Common_Function.cpp",
+              "ToolTip": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\Common_Function.cpp",
+              "RelativeToolTip": "SDL_Game_Plane\\Common_Function.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2022-10-03T07:03:30.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExplosionObject.cpp",
+              "DocumentMoniker": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\ExplosionObject.cpp",
+              "RelativeDocumentMoniker": "SDL_Game_Plane\\ExplosionObject.cpp",
+              "ToolTip": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\ExplosionObject.cpp",
+              "RelativeToolTip": "SDL_Game_Plane\\ExplosionObject.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAvwCgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-11T07:13:37.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExplosionObject.h",
+              "DocumentMoniker": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\ExplosionObject.h",
+              "RelativeDocumentMoniker": "SDL_Game_Plane\\ExplosionObject.h",
+              "ToolTip": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\ExplosionObject.h",
+              "RelativeToolTip": "SDL_Game_Plane\\ExplosionObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-11T07:13:17.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThreatsObject.cpp",
+              "DocumentMoniker": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\ThreatsObject.cpp",
+              "RelativeDocumentMoniker": "SDL_Game_Plane\\ThreatsObject.cpp",
+              "ToolTip": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\ThreatsObject.cpp",
+              "RelativeToolTip": "SDL_Game_Plane\\ThreatsObject.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-04T08:29:31.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainObject.h",
+              "DocumentMoniker": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\MainObject.h",
+              "RelativeDocumentMoniker": "SDL_Game_Plane\\MainObject.h",
+              "ToolTip": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\MainObject.h",
+              "RelativeToolTip": "SDL_Game_Plane\\MainObject.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-07T06:07:01.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThreatsObject.h",
+              "DocumentMoniker": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\ThreatsObject.h",
+              "RelativeDocumentMoniker": "SDL_Game_Plane\\ThreatsObject.h",
+              "ToolTip": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\ThreatsObject.h",
+              "RelativeToolTip": "SDL_Game_Plane\\ThreatsObject.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-04T08:29:23.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BulletObject.cpp",
+              "DocumentMoniker": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\BulletObject.cpp",
+              "RelativeDocumentMoniker": "SDL_Game_Plane\\BulletObject.cpp",
+              "ToolTip": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\BulletObject.cpp",
+              "RelativeToolTip": "SDL_Game_Plane\\BulletObject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-03T09:25:01.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BulletObject.h",
+              "DocumentMoniker": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\BulletObject.h",
+              "RelativeDocumentMoniker": "SDL_Game_Plane\\BulletObject.h",
+              "ToolTip": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\BulletObject.h",
+              "RelativeToolTip": "SDL_Game_Plane\\BulletObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-03T09:24:50.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainObject.cpp",
+              "DocumentMoniker": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\MainObject.cpp",
+              "RelativeDocumentMoniker": "SDL_Game_Plane\\MainObject.cpp",
+              "ToolTip": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\MainObject.cpp",
+              "RelativeToolTip": "SDL_Game_Plane\\MainObject.cpp",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAADQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-03T09:24:40.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseObject.cpp",
+              "DocumentMoniker": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\BaseObject.cpp",
+              "RelativeDocumentMoniker": "SDL_Game_Plane\\BaseObject.cpp",
+              "ToolTip": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\BaseObject.cpp",
+              "RelativeToolTip": "SDL_Game_Plane\\BaseObject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-09-11T02:49:22.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Common_Function.h",
+              "DocumentMoniker": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\Common_Function.h",
+              "RelativeDocumentMoniker": "SDL_Game_Plane\\Common_Function.h",
+              "ToolTip": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\Common_Function.h",
+              "RelativeToolTip": "SDL_Game_Plane\\Common_Function.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2021-07-03T04:42:20.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\main.cpp",
+              "RelativeDocumentMoniker": "SDL_Game_Plane\\main.cpp",
+              "ToolTip": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\main.cpp",
+              "RelativeToolTip": "SDL_Game_Plane\\main.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAALcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T08:04:54.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseObject.h",
+              "DocumentMoniker": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\BaseObject.h",
+              "RelativeDocumentMoniker": "SDL_Game_Plane\\BaseObject.h",
+              "ToolTip": "D:\\Code visual studio 2020\\Project_SDLgame\\Test_SDL\\SDL_Game_Plane\\SDL_Game_Plane\\BaseObject.h",
+              "RelativeToolTip": "SDL_Game_Plane\\BaseObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-05-19T20:14:05.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
