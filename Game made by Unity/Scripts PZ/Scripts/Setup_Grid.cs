@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class SetupGrid : MonoBehaviour
+public class Setup_Grid : MonoBehaviour
 {
     void Start()
     {
@@ -12,12 +12,12 @@ public class SetupGrid : MonoBehaviour
 
     private IEnumerator CalculateSpawnGrid()
     {
-        int minY = Random.Range(-2, 0);
-        int maxY = Random.Range(0, 5);
+        //int minY = Random.Range(-3, 0);
+        //int maxY = Random.Range(0, 2);
         yield return new WaitForSeconds(0.05f);
-        for (int y = minY; y <= maxY; y ++)
+        for (int y = -3; y <= 1; y ++)
         {
-            for (int x = -9; x < 3; x ++)
+            for (int x = -6; x < 3; x ++)
             {
                 SpawnGridPrefab(x, y);
             }
@@ -39,14 +39,14 @@ public class SetupGrid : MonoBehaviour
         }
     }
 
-    private void SpawnEnemyPrefab(float PosY)
+    private void SpawnEnemyPrefab(float PosY) // SpawnPortal this portal will active enenmy
     {
         foreach(GameObject portal in ManagerSpawnAndPool.instance.poolPortalEnenmy)
         {
             if (!portal.activeInHierarchy)
             {
                 portal.SetActive(true);
-                portal.transform.position = new Vector2(4, PosY);
+                portal.transform.position = new Vector2(3, PosY);
                 break;
             }
         }

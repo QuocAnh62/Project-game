@@ -7,15 +7,14 @@ public class ObjDealDame : MonoBehaviour
     protected float currentHealth;
     [SerializeField] protected float maxHealth;
 
-    protected virtual void Start()
+    protected void Start()
     {
-        currentHealth = maxHealth;
+        currentHealth = maxHealth;        
     }
 
-    protected void HandleMinusHealth(int dame)
+    protected virtual void HandleMinusHealth(int dame)
     {
         currentHealth -= dame;
-        //Debug.Log("hit");
         if (currentHealth <= 0)
         {
             this.gameObject.SetActive(false);          

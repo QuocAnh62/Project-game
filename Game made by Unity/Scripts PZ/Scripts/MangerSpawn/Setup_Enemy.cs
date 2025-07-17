@@ -49,16 +49,22 @@ public class Setup_Enemy : MonoBehaviour
 
     private IEnumerator ADS()
     {
-        yield return new WaitForSeconds(3);
-        for (int i = 0; i < 10; i++)
+        yield return new WaitForSeconds(2);
+        while (true) 
         {
-            if (Random.value < 0.5)
+            if (Random.value < 0.7)
             {
-                GameObject enemy = Instantiate(ManagerSpawnAndPool.instance.enemyPrefab, this.transform.position, Quaternion.identity);
-            }
-            else i--;
-
-            yield return new WaitForSeconds(Random.Range(6, 7));
+                foreach(GameObject zombie in ManagerSpawnAndPool.instance.poolEnemy)
+                {
+                    if (!zombie.activeInHierarchy)
+                    {
+                        zombie.SetActive(true);
+                        zombie.transform.position = this.transform.position;
+                        break;
+                    }
+                }
+            }          
+            yield return new WaitForSeconds(Random.Range(3, 5));
         }
     }
 }

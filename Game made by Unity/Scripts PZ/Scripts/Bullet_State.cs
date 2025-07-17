@@ -11,19 +11,6 @@ public class Bullet_State : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
     }
-    private void OnEnable()
-    {
-        timeInActive = 4f;
-    }
-
-    private void Update()
-    {
-        timeInActive -= Time.deltaTime;
-        if(timeInActive <=0)
-        {
-            this.gameObject.SetActive(false);
-        }
-    }
 
     private void FixedUpdate()
     {
