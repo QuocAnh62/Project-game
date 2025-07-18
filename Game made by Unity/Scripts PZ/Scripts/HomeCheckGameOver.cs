@@ -12,15 +12,15 @@ public class HomeCheckGameOver : MonoBehaviour
         Time.timeScale = 1;
     }
 
-    private void Update()
-    {
-        if (Enemy_ReceiveDame.nEnemy >= 10 && isLose == true)
-        {
-            LoseMenu.SetActive(true);
-            Time.timeScale = 0;
-            isLose = false;
-        }
-    }
+    //private void Update()
+    //{
+    //    if (Enemy_ReceiveDame.nEnemy >= 10 && isLose == true)
+    //    {
+    //        LoseMenu.SetActive(true);
+    //        Time.timeScale = 0;
+    //        isLose = false;
+    //    }
+    //}
 
 
 

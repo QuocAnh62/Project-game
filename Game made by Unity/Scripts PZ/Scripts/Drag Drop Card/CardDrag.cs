@@ -83,7 +83,7 @@ public class CardDrag : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
                 break;
 
             case Card_Type.ShotPlant:               
-                foreach (GameObject plantShot in ManagerSpawnAndPool.instance.poolHero)
+                foreach (GameObject plantShot in ManagerSpawnAndPool.instance.poolShotPlant)
                 {
                     if (!plantShot.activeInHierarchy)
                     {

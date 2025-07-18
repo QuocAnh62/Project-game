@@ -8,7 +8,7 @@ public class ManagerSpawnAndPool : MonoBehaviour
     public static ManagerSpawnAndPool instance;
 
     public GameObject gridPrefab;
-    public GameObject heroPrefab;
+    public GameObject shotPlantPrefab;
     public GameObject enemyPrefab;
     public GameObject portalEnemyPrefab;
     public GameObject bulletPrefab;
@@ -18,7 +18,7 @@ public class ManagerSpawnAndPool : MonoBehaviour
 
     /* ========== Part of container ========== */
     public Transform gridContainer;
-    public Transform heroContainer;
+    public Transform shotPlantContainer;
     public Transform enemyContainer;
     public Transform portalEnemyContainer;
     public Transform bulletContainer;
@@ -29,9 +29,9 @@ public class ManagerSpawnAndPool : MonoBehaviour
     /* ========== Part of Pool ========== */
     public List<GameObject> poolEnemy = new List<GameObject>();
     public List<GameObject> poolBullet = new List<GameObject>();
-    public List<GameObject> poolGrid = new List<GameObject>();
-    public List<GameObject> poolHero = new List<GameObject>();
-    public List<GameObject> poolPortalEnenmy = new List<GameObject>();
+    protected List<GameObject> poolGrid = new List<GameObject>();
+    public List<GameObject> poolShotPlant = new List<GameObject>();
+    protected List<GameObject> poolPortalEnenmy = new List<GameObject>();
 
     public List<GameObject> poolSunFlower = new List<GameObject>();
     public List<GameObject> poolSun = new List<GameObject>();
@@ -41,12 +41,12 @@ public class ManagerSpawnAndPool : MonoBehaviour
         if (instance == null) { instance = this; }
     }
 
-    private void Start()
+    protected virtual void Start()
     {
         SpawnObj(gridPrefab, gridContainer, poolGrid, 50);
         SpawnObj(bulletPrefab,bulletContainer,poolBullet,10);
         SpawnObj(enemyPrefab, enemyContainer, poolEnemy, 20);
-        SpawnObj(heroPrefab, heroContainer, poolHero, 20);
+        SpawnObj(shotPlantPrefab, shotPlantContainer, poolShotPlant, 20);
         SpawnObj(portalEnemyPrefab, portalEnemyContainer, poolPortalEnenmy, 5);
         SpawnObj(sunPrefab, sunContainer, poolSun, 10);
         SpawnObj(sunFlowerPrefab,sunFlowerContainer, poolSunFlower, 10);
@@ -60,7 +60,6 @@ public class ManagerSpawnAndPool : MonoBehaviour
             pool.Add(obj);
             obj.transform.parent = objContainer;
             obj.SetActive(false);
-        }
-       
+        }     
     }
 }
